@@ -79,3 +79,12 @@ h1 {
     display: none;
   }
 }
+
+html.dark {
+  background-color: #190116;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}

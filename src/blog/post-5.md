@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: My Fifth Blog Post
 author: Astro Learner
 description: "This post will show in Feedly"
